@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FuzzySearch</string>
+    <string name="cancel">取消</string>
+    <string name="search_hint">请输入搜索内容</string>
+</resources>
